@@ -1,0 +1,11 @@
+{
+  "versionCode": 42,
+  "versionName": "1.35.0",
+  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.35.0.apk",
+  "notes": [
+    "使用手册底部新增「自己发一个新版」四步卡片",
+    "三端换成 komi 设计语言，浅色 / 深色两套都重做（跟随系统）",
+    "深色下「今日收入」这类大卡片不再是一整块刺眼的浅蓝"
+  ],
+  "sizeBytes": 2945638
+}
