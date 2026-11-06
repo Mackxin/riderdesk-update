@@ -1,12 +1,11 @@
 {
-  "versionCode": 44,
-  "versionName": "1.37.0",
-  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.37.0.apk",
+  "versionCode": 45,
+  "versionName": "1.38.0",
+  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.38.0.apk",
   "notes": [
-    "在线更新改用 GitHub Releases：发版只要建一条 Release 挂上 APK，App 自己读 tag 和安装包",
-    "不再需要手写 update.json、也不用等网页刷新",
-    "地址栏填 GitHub 仓库或 Releases 地址都能认，老的 json 清单也继续支持",
-    "「发版小工具」换成一张「怎么发一个新版」的说明卡"
+    "「检查更新」简化成一个按钮：点一下，有新版就直接下载安装",
+    "删掉「选本机 APK 安装」和「更新源地址」两栏，更新源固定在官方仓库",
+    "删掉自动检查开关和发版小工具，页面只剩必要的两样东西"
   ],
   "sizeBytes": 2945638
 }
