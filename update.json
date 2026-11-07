@@ -1,11 +1,11 @@
 {
-  "versionCode": 45,
-  "versionName": "1.38.0",
-  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.38.0.apk",
+  "versionCode": 46,
+  "versionName": "1.39.0",
+  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.39.0.apk",
   "notes": [
-    "「检查更新」简化成一个按钮：点一下，有新版就直接下载安装",
-    "删掉「选本机 APK 安装」和「更新源地址」两栏，更新源固定在官方仓库",
-    "删掉自动检查开关和发版小工具，页面只剩必要的两样东西"
+    "五个一级页改成真·左右滑动：手指拖到哪页面走到哪，松手自动吸附",
+    "点底部 tab 也是同一套动画，平滑滚过去",
+    "返回键先滑回默认起始页，再按一次才退出"
   ],
-  "sizeBytes": 2945638
+  "sizeBytes": 2962018
 }
