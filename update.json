@@ -1,11 +1,13 @@
 {
-  "versionCode": 46,
-  "versionName": "1.39.0",
-  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.39.0.apk",
+  "versionCode": 47,
+  "versionName": "1.40.0",
+  "url": "https://mackxin.github.io/riderdesk-update/riderdesk-v1.40.0.apk",
   "notes": [
-    "五个一级页改成真·左右滑动：手指拖到哪页面走到哪，松手自动吸附",
-    "点底部 tab 也是同一套动画，平滑滚过去",
-    "返回键先滑回默认起始页，再按一次才退出"
+    "首页主数字换成「净赚」，收入缩成右上角一行小字",
+    "工具区两张张大卡改成一排胶囊，不再被右下角按钮压住",
+    "「记一笔」浮钮只在首页和搬砖记录出现（电池页那个压住了「+ 添加电池」）",
+    "空页面居中显示，并顺手给出下一步按钮",
+    "统一底部留白，滚到最底不再贴着导航栏"
   ],
-  "sizeBytes": 2962018
+  "sizeBytes": 2962022
 }
